@@ -1,4 +1,4 @@
-# xmlfmt [![Build Status](https://travis-ci.org/1000ch/xmlfmt.svg?branch=master)](https://travis-ci.org/1000ch/xmlfmt)
+# xmlfmt ![test](https://github.com/1000ch/xmlfmt/actions/workflows/test.yml/badge.svg)
 
 Format XML string.
 
